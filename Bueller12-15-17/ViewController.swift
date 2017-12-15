@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+let num = 9;
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
